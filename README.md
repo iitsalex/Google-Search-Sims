@@ -2,7 +2,8 @@
 Web Scraping Google Search Simulator
 
 HW1
-    - 
+    
+    
     Basic Initial implementation of Web Scraping using JSoup library
     
     Sorting algorithm used: Heapsort
@@ -10,6 +11,7 @@ HW1
     Displays top 30 URLs based upon randomly generated Factors which make up PageRank
     
 HW2
+    
     Quicksort and Bucketsort implementation of prior project
     
     Created new menu style and playground style for user input
